@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##introduction
+*안녕하세요
+Career
+영남대 컴공과 2학년 서연서
+**HOBBY**
+**나의 장점**
+**내가 참여한것 할수 있는 것**
+
+
