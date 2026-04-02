@@ -3,7 +3,7 @@
 ### INTRODUCKTION
 - **이름:** 서연서
 - **학과:** 영님대학교 컴퓨터공학과 2학년
-- 
+
 ### Tech & Tools (Learning...)
 - **Languages:** C, Python, C++ (기초부터 심화까지 정복 중)
 - **Tools:** Git, SourceTree, VS Code
